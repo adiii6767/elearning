@@ -1,0 +1,16 @@
+.hero {
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  color: white;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero .lead {
+  font-size: 1.25rem;
+}
+
+.card-title {
+  color: #007bff;
+}
